@@ -2,7 +2,7 @@
 '''Task 1 module.'''
 
 
-def concat(str1: str, str2: str) -> str
+def concat(str1: str, str2: str) -> str:
     '''
     Concatenate two strings.
     '''
